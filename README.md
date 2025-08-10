@@ -16,7 +16,7 @@ This module offers:
 ## Installation
 
 ```go
-    go get github.com/antihax/goesi
+    go get github.com/MrLeeZ/goesi
 ```
 
 ## New Client
@@ -37,7 +37,7 @@ import (
 	"context"
 	"fmt"
 
-	"github.com/antihax/goesi"
+	"github.com/MrLeeZ/goesi"
 )
 
 func main() {

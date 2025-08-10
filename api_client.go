@@ -27,8 +27,8 @@ import (
 	"strings"
 	"time"
 
-	"github.com/antihax/goesi/esi"
-	"github.com/antihax/goesi/meta"
+	"github.com/MrLeeZ/goesi/esi"
+	"github.com/MrLeeZ/goesi/meta"
 )
 
 // Handle our context keys.
